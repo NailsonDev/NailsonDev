@@ -47,7 +47,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Full-Stack** \
 [**Scan Community**](https://www.scan.community/) • Full-Stack Developer\
 Linguagens & Tecnologias: `PHP`, `HTML5`, `CSS3 `JavaScript`, `Mysql`,\
-Projetos em destaque: [Plataforma de Mangás](https://www.scan.community.com/),
+Projeto em destaque: [Plataforma de Mangás](https://www.scan.community.com/)
 <br/>
 <br/>
 
