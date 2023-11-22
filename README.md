@@ -41,7 +41,7 @@ function nailsonDev(){
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
 
-**Full-Stack** \
-[**Scan Community**](https://www.scan.community/) • Full-Stack Developer\
+**Full-Stack Developer** \
+[**Scan Community**](https://www.scan.community/) • Full-time\
 Languages & Technologies: `PHP`, `HTML5`, `CSS3`, `JavaScript`, `Mysql`,\
 Featured Project: [Manga Platform](https://www.scan.community.com/)
