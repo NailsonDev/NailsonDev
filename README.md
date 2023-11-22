@@ -25,11 +25,18 @@ function nailsonDev(){
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 
-## **GitHub Estatísticas**
+### Experiência de trabalho
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nailsondev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
 
+**Full-Stack** \
+[**Scan Community**](https://www.scan.community/) • Full-Stack Developer\
+Linguagens & Tecnologias: `PHP`, `HTML5`, `CSS3 `JavaScript`, `Mysql`,\
+Projetos em destaque: [Plataforma de Mangás](https://www.scan.community.com/),
+<br/>
+<br/>
 [website]: https://nailsondev.com/
 [twitter]: https://twitter.com/nailsondev
 [youtube]: https://www.youtube.com/user/nailsondev/
