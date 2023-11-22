@@ -9,7 +9,7 @@ function nailsonDev(){
   $languages = array("HTML", "CSS", "PHP", "JavaScript");
 }
 ````
-### Social Media!
+### Social Media! <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
 
 <p align="left">
   <a href="#" title="LinkedIn">
