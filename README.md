@@ -1,15 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=400&background=000000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=100&lines=Hello+everyone%2C;Welcome+to+my+profile;And+this+is+my+readme!)](https://git.io/typing-svg)
 
-```php
-function nailsonDev(){
-  $name = "Nailson Santos";
-  $area = "Full-stack";
- 
-  $primarySkillset = "VS Code, GIT, MYSQL";
-  $languages = array("HTML", "CSS", "PHP", "JavaScript");
-}
-````
-### Social Media! <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
+# Welcome to My Profile! <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
+
+Hello there! I'm Nailson Santos, a passionate Full-stack Developer with 5 years of hands-on experience. I find joy in crafting digital solutions and take pride in my work. 
+
+## About Me:
+
+- 💻 Full-stack Developer
+- 🌐 5 years of experience
+
+## What I Bring to the Table:
+
+I love what I do, and my enthusiasm for coding reflects in my work. I strive to approach challenges with a creative mindset, pushing the boundaries of what's possible. Join me on this coding journey, and let's build something amazing together!
+
+### Social Media!
 
 <p align="left">
   <a href="#" title="LinkedIn">
