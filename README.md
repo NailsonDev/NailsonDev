@@ -1,8 +1,4 @@
-### Hello devs 👋
-
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
-
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=400&background=000000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=100&lines=Hello+everyone%2C;Welcome+to+my+profile;And+this+is+my+readme!)](https://git.io/typing-svg)
 
 ```php
 function nailsonDev(){
