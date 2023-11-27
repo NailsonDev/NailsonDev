@@ -38,6 +38,7 @@ I love what I do, and my enthusiasm for coding reflects in my work. I strive to 
 Languages & Technologies: `PHP`, `HTML5`, `CSS3`, `JavaScript`, `Mysql`,\
 Featured Project: [Manga Platform](https://www.scan.community.com/)
 <br>
+<br>
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/gaaM1UA.png"/>](https://www.spacex.com/)
 
 **Co-Founder** \
