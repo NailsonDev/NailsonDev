@@ -31,20 +31,20 @@ I love what I do, and my enthusiasm for coding reflects in my work. I strive to 
 
 ### Work Experience:
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://i.imgur.com/XmstLB1.jpg"/>](https://rocketseat.com.br/)
 
-**Frot-end Developer (Jr)** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
+**Full-Stack Developer** \
+[**Scan Community**](https://rocketseat.com.br/) • Full-time \
+Linguagens & Tecnologias: `PHP8`, `Mysql`, `Uniq Framework`\
+Projetos em destaque: [Manga Plataform]()
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
 
-**Software Engineer** \
-[**Nubank**](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Projetos em destaque: [App](https://nubank.com.br/)
+**Co-Founder** \
+[**Uniq Code Agency**](https://nubank.com.br/) • Full-time \
+Agency developer of website
+Projetos em destaque: [Scab Community](https://scan.community/)
 <br/>
 <br/>
 
