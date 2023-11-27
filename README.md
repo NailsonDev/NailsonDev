@@ -31,20 +31,20 @@ I love what I do, and my enthusiasm for coding reflects in my work. I strive to 
 
 ### Work Experience:
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://i.imgur.com/XmstLB1.jpg"/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="scancommunity" src="https://i.imgur.com/XmstLB1.jpg"/>](https://rocketseat.com.br/)
 
 **Full-Stack Developer** \
 [**Scan Community**](https://rocketseat.com.br/) • Full-time \
-Linguagens & Tecnologias: `PHP8`, `Mysql`, `Uniq Framework`\
-Projetos em destaque: [Manga Plataform]()
+Languages & Technologies: `PHP8`, `Mysql`, `Uniq Framework`\
+Featured Projects: [Manga Plataform]()
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
+[<img align="left" height="94px" width="94px" alt="uniqcode" src="https://i.imgur.com/gaaM1UA.png"/>](https://nubank.com.br/)
 
 **Co-Founder** \
 [**Uniq Code Agency**](https://nubank.com.br/) • Full-time \
 Agency developer of website
-Projetos em destaque: [Scab Community](https://scan.community/)
+Featured Projects: [Scab Community](https://scan.community/)
 <br/>
 <br/>
 
