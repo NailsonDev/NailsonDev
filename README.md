@@ -43,7 +43,7 @@ Featured Projects: [Manga Plataform]()
 
 **Co-Founder** \
 [**Uniq Code Agency**](https://uniq.code/) • Full-time \
-Agency developer of website
+Agency developer of website \
 Featured Projects: [Scan Community](https://scan.community/)
 <br/>
 <br/>
