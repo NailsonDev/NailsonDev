@@ -39,11 +39,11 @@ Languages & Technologies: `PHP`, `HTML5`, `CSS3`, `JavaScript`, `Mysql`,\
 Featured Project: [Manga Platform](https://www.scan.community.com/)
 <br>
 <br>
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/gaaM1UA.png"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/XmstLB1.jpg"/>](https://www.spacex.com/)
 
-**Co-Founder** \
-[**Uniq Code Agency**](https://www.uniqcode.org/) • Full-time\
-Languages & Technologies: `PHP8`, `HTML5`, `CSS3`, `JavaScript`, `Mysql`,\
+**Full-Stack Developer** \
+[**Scan Community**](https://www.scan.community/) • Full-time\
+Languages & Technologies: `PHP`, `HTML5`, `CSS3`, `JavaScript`, `Mysql`,\
 Featured Project: [Manga Platform](https://www.scan.community.com/)
 <br>
 <br>
