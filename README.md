@@ -34,7 +34,7 @@ I love what I do, and my enthusiasm for coding reflects in my work. I strive to 
 [<img align="left" height="94px" width="94px" alt="scancommunity" src="https://i.imgur.com/XmstLB1.jpg"/>](https://scan.community/)
 
 **Full-Stack Developer** \
-[**Scan Community**](https://rocketseat.com.br/) • Full-time \
+[**Scan Community**](https://scan.community/) • Full-time \
 Languages & Technologies: `PHP8`, `Mysql`, `Uniq Framework`\
 Featured Projects: [Manga Plataform]()
 <br/>
