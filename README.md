@@ -31,22 +31,23 @@ I love what I do, and my enthusiasm for coding reflects in my work. I strive to 
 
 ### Work Experience:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/XmstLB1.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
 
-**Full-Stack Developer** \
-[**Scan Community**](https://www.scan.community/) • Full-time\
-Languages & Technologies: `PHP`, `HTML5`, `CSS3`, `JavaScript`, `Mysql`,\
-Featured Project: [Manga Platform](https://www.scan.community.com/)
-<br>
-<br>
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/XmstLB1.jpg"/>](https://www.spacex.com/)
+**Frot-end Developer (Jr)** \
+[**Rocketseat**](https://rocketseat.com.br/) • Contract \
+Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
+Projetos em destaque: [Ignite](), [Bootcamp]()
+<br/>
 
-**Full-Stack Developer** \
-[**Scan Community**](https://www.scan.community/) • Full-time\
-Languages & Technologies: `PHP`, `HTML5`, `CSS3`, `JavaScript`, `Mysql`,\
-Featured Project: [Manga Platform](https://www.scan.community.com/)
-<br>
-<br>
+[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
+
+**Software Engineer** \
+[**Nubank**](https://nubank.com.br/) • Contract \
+Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
+Projetos em destaque: [App](https://nubank.com.br/)
+<br/>
+<br/>
+
 ### Languages and Tools:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
