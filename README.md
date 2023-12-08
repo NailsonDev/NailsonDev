@@ -9,7 +9,7 @@ Hello there! I'm Nailson Santos, a passionate Full-stack Developer with 5 years 
 - 💻 Full-stack Developer
 - 🌐 5 years of experience 
 
-## What I Bring to the Table:
+## What I Bring to the Table: 
 
 I love what I do, and my enthusiasm for coding reflects in my work. I strive to approach challenges with a creative mindset, pushing the boundaries of what's possible. Join me on this coding journey, and let's build something amazing together!
 
