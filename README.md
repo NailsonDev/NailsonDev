@@ -31,10 +31,10 @@ I love what I do, and my enthusiasm for coding reflects in my work. I strive to 
 
 ### Work Experience:
 
-[<img align="left" height="94px" width="94px" alt="scancommunity" src="https://i.imgur.com/XmstLB1.jpg"/>](https://scan.community/)
+[<img align="left" height="94px" width="94px" alt="scancommunity" src="https://i.imgur.com/XmstLB1.jpg"/>](http://scan.community/)
 
 **Full-Stack Developer** \
-[**Scan Community**](https://scan.community/) • Full-time \
+[**Scan Community**](http://scan.community/) • Full-time \
 Languages & Technologies: `PHP8`, `Mysql`, `Uniq Framework`\
 Featured Projects: [Manga Plataform]()
 <br/>
