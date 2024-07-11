@@ -35,7 +35,7 @@ I love what I do, and my enthusiasm for coding reflects in my work. I strive to 
 
 **Full-Stack Developer** \
 [**Scan Community**](http://scan.community/) • Full-time \
-Languages & Technologies: `PHP8`, `Mysql`, `Uniq Framework`\
+Languages & Technologies: `PHP8`, `Mysql`, `Laravel 11`\
 Featured Projects: [Manga Plataform]()
 <br/>
 
