@@ -31,7 +31,7 @@ I love what I do, and my enthusiasm for coding reflects in my work. I strive to 
 
 ### Work Experience:
 
-[<img align="left" height="94px" width="94px" alt="stargames.gg" src="https://i.imgur.com/Ph0phW5.png"/>](https://stargames.gg/)
+[<img align="left" height="94px" width="94px" alt="stargames.gg" src="https://i.imgur.com/m9qk8Kf.png"/>](https://stargames.gg/)
 
 **Full-Stack Developer** \
 [**Star Games**](https://stargames.gg/) • Full-time \
