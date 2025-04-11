@@ -31,6 +31,14 @@ I love what I do, and my enthusiasm for coding reflects in my work. I strive to 
 
 ### Work Experience:
 
+[<img align="left" height="94px" width="94px" alt="stargames.gg" src="[https://i.imgur.com/XmstLB1.jpg](https://i.imgur.com/Ph0phW5.png)"/>](https://stargames.gg/)
+
+**Full-Stack Developer** \
+[**Star Games**](https://stargames.gg/) • Full-time \
+Technologies: `Nextjs`, `Laravel`\
+Featured Projects: [E-commerce Plataform]()
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="scancommunity" src="https://i.imgur.com/XmstLB1.jpg"/>](http://scan.community/)
 
 **Full-Stack Developer** \
