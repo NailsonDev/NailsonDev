@@ -42,7 +42,7 @@ Featured Projects: [E-commerce Plataform]()
 [<img align="left" height="94px" width="94px" alt="scancommunity" src="https://i.imgur.com/XmstLB1.jpg"/>](http://scan.community/)
 
 **Full-Stack Developer** \
-[**Scan Community**](http://scan.community/) • Full-time \
+[**Scan Community**](http://scan.community/) • 2020 - 2024 \
 Languages & Technologies: `PHP8`, `Mysql`, `Laravel 11`\
 Featured Projects: [Manga Plataform]()
 <br/>
