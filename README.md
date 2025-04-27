@@ -2,7 +2,7 @@
 
 # Welcome to My Profile! <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
  
-Hello there! I'm Nailson Santos, a passionate Full-stack Developer with 6 years of hands-on experience. I find joy in crafting digital solutions and take pride in my work.  
+Hello there! I'm Nailson Santos, a passionate Full-stack Developer with 7 years of hands-on experience. I find joy in crafting digital solutions and take pride in my work.  
 
 ## About Me:
  
