@@ -7,7 +7,7 @@ Hello there! I'm Nailson Santos, a passionate Full-stack Developer with 8 years 
 ## About Me:
  
 - 💻 Full-stack Developer
-- 🌐 6 years of experience 
+- 🌐 8 years of experience 
 
 ## What I Bring to the Table: 
 
