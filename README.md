@@ -7,7 +7,7 @@ Hello there! I'm Nailson Santos, a passionate Full-stack Developer with 8 years 
 ## About Me:
  
 - 💻 Full-stack Developer
-- 🌐 8 years of experience 
+- 🌐 10 years of experience 
 
 ## What I Bring to the Table: 
 
@@ -31,11 +31,11 @@ I love what I do, and my enthusiasm for coding reflects in my work. I strive to 
 
 ### Work Experience:
 
-[<img align="left" height="94px" width="94px" alt="stargames.gg" src="https://i.imgur.com/m9qk8Kf.png"/>](https://stargames.gg/)
+[<img align="left" height="94px" width="94px" alt="m9.gg" src="https://i.imgur.com/m9qk8Kf.png"/>](https://m9.gg/)
 
 **Full-Stack Developer** \
-[**Star Games**](https://stargames.gg/) • Full-time \
-Technologies: `Nextjs`, `Laravel`\
+[**M9.GG**](https://m9.gg/) • Full-time \
+Technologies: `Nextjs`, `NestJs`\
 Featured Projects: [E-commerce Plataform]()
 <br/>
 
@@ -47,12 +47,12 @@ Languages & Technologies: `PHP8`, `Mysql`, `Laravel 11`\
 Featured Projects: [Manga Plataform]()
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="uniqcode" src="https://i.imgur.com/gaaM1UA.png"/>](https://uniq.code/)
+[<img align="left" height="94px" width="94px" alt="uniqcode" src="https://i.imgur.com/UwnDVfV.png"/>](https://uniq.code/)
 
 **Co-Founder** \
-[**Uniq Code Agency**](https://uniq.code/) • Full-time \
+[**M9 Groups Ltda**](https://m9.gg/) • Full-time \
 Agency developer of website \
-Featured Projects: [Scan Community](https://scan.community/)
+Featured Projects: [M9 Marketplace](https://m9.gg/)
 <br/>
 <br/>
 
