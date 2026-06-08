@@ -31,7 +31,7 @@ I love what I do, and my enthusiasm for coding reflects in my work. I strive to 
 
 ### Work Experience:
 
-[<img align="left" height="94px" width="94px" alt="m9.gg" src="https://i.imgur.com/m9qk8Kf.png"/>](https://m9.gg/)
+[<img align="left" height="94px" width="94px" alt="m9" src="https://i.imgur.com/UwnDVfV.png"/>](https://m9.gg/)
 
 **Full-Stack Developer** \
 [**M9.GG**](https://m9.gg/) • Full-time \
@@ -39,15 +39,7 @@ Technologies: `Nextjs`, `NestJs`\
 Featured Projects: [E-commerce Plataform]()
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="scancommunity" src="https://i.imgur.com/XmstLB1.jpg"/>](http://scan.community/)
-
-**Full-Stack Developer** \
-[**Scan Community**](http://scan.community/) • 2020 - 2024 \
-Languages & Technologies: `PHP8`, `Mysql`, `Laravel 11`\
-Featured Projects: [Manga Plataform]()
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="uniqcode" src="https://i.imgur.com/UwnDVfV.png"/>](https://uniq.code/)
+[<img align="left" height="94px" width="94px" alt="uniqcode" src="https://i.imgur.com/UwnDVfV.png"/>](https://m9.gg/)
 
 **Co-Founder** \
 [**M9 Groups Ltda**](https://m9.gg/) • Full-time \
