@@ -78,12 +78,18 @@ I build products end to end, from the database schema and the payment flow to th
 
 ## 💼 Experience
 
-[<img align="left" height="80" width="80" alt="M9.GG" src="https://i.imgur.com/UwnDVfV.png"/>](https://m9.gg/)
-
-**Co-Founder & Full-Stack Developer** · [**M9.GG**](https://m9.gg/) · Full-time<br/>
-`TypeScript` `NestJS` `Next.js` `Prisma` `PostgreSQL` `Redis` `BullMQ`<br/>
-Marketplace for game accounts, skins and digital items, with escrow and instant delivery.
-<br clear="left"/>
+<table>
+  <tr>
+    <td width="72" align="center" valign="middle">
+      <a href="https://m9.gg/"><img src="https://m9.gg/images/logo.png" width="56" height="56" alt="M9.GG"/></a>
+    </td>
+    <td valign="middle">
+      <b>Co-Founder &amp; Full-Stack Developer</b> · <a href="https://m9.gg/"><b>M9.GG</b></a> · Full-time<br/>
+      <sub>Marketplace for game accounts, skins and digital items, with escrow and instant delivery.</sub><br/>
+      <code>TypeScript</code> <code>NestJS</code> <code>Next.js</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Redis</code> <code>BullMQ</code>
+    </td>
+  </tr>
+</table>
 
 - Designed and built the platform as a **TypeScript monorepo** (NestJS API + Next.js web + shared package)
 - **Escrow payments** with Stripe and Pix (Efí): money held until delivery is confirmed, then released to the seller's wallet
@@ -95,14 +101,18 @@ Marketplace for game accounts, skins and digital items, with escrow and instant 
 - **4 languages** (en, pt, es, fr) with `next-intl`
 - Self-hosted deploy on a **VPS** with Nginx, systemd, Docker, CI on GitHub Actions, and Sentry + Pino for observability
 
-<br/>
-
-[<img align="left" height="80" width="80" alt="M9 Groups" src="https://i.imgur.com/UwnDVfV.png"/>](https://m9.gg/)
-
-**Co-Founder** · [**M9 Groups Ltda**](https://m9.gg/) · Full-time<br/>
-`Web development` `Agency`<br/>
-Web development agency building websites and systems for clients.
-<br clear="left"/>
+<table>
+  <tr>
+    <td width="72" align="center" valign="middle">
+      <a href="https://m9.gg/"><img src="https://m9.gg/images/logo.png" width="56" height="56" alt="M9 Groups"/></a>
+    </td>
+    <td valign="middle">
+      <b>Co-Founder</b> · <a href="https://m9.gg/"><b>M9 Groups Ltda</b></a> · Full-time<br/>
+      <sub>Web development agency building websites and systems for clients.</sub><br/>
+      <code>Web development</code> <code>Agency</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
