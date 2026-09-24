@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About me
+## About me
 
 I'm **Nailson Santos**, a Brazilian full-stack developer with **10+ years** of experience and co-founder of **[M9.GG](https://m9.gg)**.
 I build products end to end, from the database schema and the payment flow to the UI and the production server.
@@ -25,7 +25,7 @@ I build products end to end, from the database schema and the payment flow to th
 
 ---
 
-## 🛠️ Tech stack
+## Tech stack
 
 **Languages**<br/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -75,7 +75,7 @@ I build products end to end, from the database schema and the payment flow to th
 
 ---
 
-## 💼 Experience
+## Experience
 
 <table>
   <tr>
@@ -115,7 +115,7 @@ I build products end to end, from the database schema and the payment flow to th
 
 ---
 
-## 🚀 Featured projects
+## Featured projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -124,7 +124,7 @@ I build products end to end, from the database schema and the payment flow to th
 
 ---
 
-## 📊 GitHub stats
+## GitHub stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
