@@ -88,16 +88,14 @@ I build products end to end, from the database schema and the payment flow to th
   </tr>
 </table>
 
-- Designed and built the platform as a **TypeScript monorepo** (NestJS API + Next.js web + shared package)
-- **Escrow payments** with Stripe and Pix (Efí): money held until delivery is confirmed, then released to the seller's wallet
-- **Immutable double-entry ledger** per currency, amounts in integer cents, multi-currency (BRL/USD/EUR) with the FX rate frozen at checkout
-- **Encrypted seller inventory** (AES-256-GCM) with access audit trail. Plain-text credentials never reach the database, logs or cache
-- **Async everything**: email, SMS, KYC, webhooks and search indexing go through BullMQ queues, with idempotent jobs and webhooks
-- **Realtime** chat and notifications with Socket.IO + Redis adapter
-- Seller **KYC** (Sumsub), disputes, support tickets, RBAC staff panel, withdrawal approvals and an internal `/ops` dashboard (health, queues, webhooks, security)
-- **4 languages** (en, pt, es, fr) with `next-intl`
-- Self-hosted deploy on a **VPS** with Nginx, systemd, Docker, CI on GitHub Actions, and Sentry + Pino for observability
-
+- Co-founded the company and lead the product's engineering, from architecture to production
+- Built the platform end to end with a **TypeScript** stack (NestJS + Next.js)
+- Secure checkout with **buyer protection** and seller payouts, supporting multiple currencies and payment methods
+- Seller verification, dispute resolution, support tools and a role-based admin area for the team
+- Realtime chat and notifications
+- Multilingual experience serving users in several countries
+- Own the infrastructure, CI/CD and monitoring
+  
 <table>
   <tr>
     <td width="72" align="center" valign="middle">
