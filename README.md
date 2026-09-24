@@ -123,12 +123,16 @@ I build products end to end, from the database schema and the payment flow to th
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NailsonDev&theme=tokyonight" alt="GitHub profile details"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NailsonDev&theme=tokyonight" alt="GitHub stats"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NailsonDev&theme=tokyonight" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NailsonDev&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
