@@ -20,7 +20,6 @@ I build products end to end, from the database schema and the payment flow to th
 - 🛒 Currently building **M9.GG**, a marketplace for digital goods (game accounts, skins, items) with escrow-protected payments
 - 🧱 I like **boring, reliable backends**: queues, idempotency, audit trails, and money that is never a `float`
 - ⚡ And **fast, polished frontends**: SSR, i18n, realtime UIs, motion and 3D where it earns its place
-- 🤖 I use AI-assisted development (Claude Code) as part of my daily workflow
 - 🌎 Languages: Portuguese (native), English
 
 ---
