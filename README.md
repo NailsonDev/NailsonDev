@@ -101,11 +101,6 @@ I build products end to end, from the database schema and the payment flow to th
   </tr>
 </table>
 
-- Lead the company and the product, from business-search to site generation and sales follow-up
-- Business discovery by city, segment and radius, crossing Google, OpenStreetMap and CNPJ data
-- Website generation from 15 ready-made templates across 62 business segments
-- Built-in leads, orders and sales tracking for agencies and site sellers
-
 <table>
   <tr>
     <td width="72" align="center" valign="middle">
@@ -118,14 +113,6 @@ I build products end to end, from the database schema and the payment flow to th
     </td>
   </tr>
 </table>
-
-- Co-founded the company and lead the product's engineering, from architecture to production
-- Built the platform end to end with a **TypeScript** stack (NestJS + Next.js)
-- Secure checkout with **buyer protection** and seller payouts, supporting multiple currencies and payment methods
-- Seller verification, dispute resolution, support tools and a role-based admin area for the team
-- Realtime chat and notifications
-- Multilingual experience serving users in several countries
-- Own the infrastructure, CI/CD and monitoring
 
 <table>
   <tr>
