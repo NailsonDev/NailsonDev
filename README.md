@@ -77,11 +77,38 @@ I build products end to end, from the database schema and the payment flow to th
 
 <table>
   <tr>
+    <td width="72" align="center" valign="middle"><b>M9</b></td>
+    <td valign="middle">
+      <b>Co-Founder</b> · <b>M9 Enterprise</b> · Full-time<br/>
+      <sub>Parent company of the M9 group — AI & digital growth agency that owns M9.GG and M9 Studio.</sub><br/>
+      <code>AI</code> <code>Digital growth</code> <code>Software engineering</code>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="72" align="center" valign="middle"><b>M9</b></td>
+    <td valign="middle">
+      <b>CEO</b> · <b>M9 Studio</b> · Full-time · <sub>part of M9 Enterprise</sub><br/>
+      <sub>Finds local businesses that only exist on Instagram/WhatsApp and generates their website from ready-made templates.</sub><br/>
+      <code>TypeScript</code> <code>NestJS</code> <code>Next.js</code> <code>Prisma</code> <code>PostgreSQL</code> <code>BullMQ</code> <code>Claude API</code> <code>MapLibre</code>
+    </td>
+  </tr>
+</table>
+
+- Lead the company and the product, from business-search to site generation and sales follow-up
+- Business discovery by city, segment and radius, crossing Google, OpenStreetMap and CNPJ data
+- Website generation from 15 ready-made templates across 62 business segments
+- Built-in leads, orders and sales tracking for agencies and site sellers
+
+<table>
+  <tr>
     <td width="72" align="center" valign="middle">
       <a href="https://m9.gg/"><img src="https://m9.gg/images/logo.png" width="56" height="56" alt="M9.GG"/></a>
     </td>
     <td valign="middle">
-      <b>Co-Founder &amp; Full-Stack Developer</b> · <a href="https://m9.gg/"><b>M9.GG</b></a> · Full-time<br/>
+      <b>Co-Founder &amp; Full-Stack Developer</b> · <a href="https://m9.gg/"><b>M9.GG</b></a> · Full-time · <sub>part of M9 Enterprise</sub><br/>
       <sub>Marketplace for game accounts, skins and digital items, with escrow and instant delivery.</sub><br/>
       <code>TypeScript</code> <code>NestJS</code> <code>Next.js</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Redis</code> <code>BullMQ</code>
     </td>
@@ -95,7 +122,7 @@ I build products end to end, from the database schema and the payment flow to th
 - Realtime chat and notifications
 - Multilingual experience serving users in several countries
 - Own the infrastructure, CI/CD and monitoring
-  
+
 <table>
   <tr>
     <td width="72" align="center" valign="middle">
@@ -108,7 +135,6 @@ I build products end to end, from the database schema and the payment flow to th
     </td>
   </tr>
 </table>
-
 ---
 
 ## Featured projects
