@@ -128,14 +128,6 @@ I build products end to end, from the database schema and the payment flow to th
 </table>
 ---
 
-## Featured projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🛒 [**M9 Marketplace**](https://m9.gg) | Digital-goods marketplace with escrow, KYC, disputes, wallet and realtime chat | NestJS · Next.js · Prisma · PostgreSQL · Redis · BullMQ |
-| 🤖 **M9 Discord Bot** | Watches GitHub commits and deploys, and runs safe production **rollbacks/restores** from Discord slash commands (new commit on top of `main`, or a PR when the branch is protected) | Node.js · discord.js · GitHub API |
-
-
 <p align="center">
   <i>Let's build something reliable together.</i> 🚀
 </p>
