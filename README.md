@@ -118,24 +118,6 @@ I build products end to end, from the database schema and the payment flow to th
 | 🛒 [**M9 Marketplace**](https://m9.gg) | Digital-goods marketplace with escrow, KYC, disputes, wallet and realtime chat | NestJS · Next.js · Prisma · PostgreSQL · Redis · BullMQ |
 | 🤖 **M9 Discord Bot** | Watches GitHub commits and deploys, and runs safe production **rollbacks/restores** from Discord slash commands (new commit on top of `main`, or a PR when the branch is protected) | Node.js · discord.js · GitHub API |
 
----
-
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NailsonDev&theme=tokyonight" alt="GitHub profile details"/>
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NailsonDev&theme=tokyonight" alt="GitHub stats"/>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NailsonDev&theme=tokyonight" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NailsonDev&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
----
 
 <p align="center">
   <i>Let's build something reliable together.</i> 🚀
