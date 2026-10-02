@@ -77,7 +77,9 @@ I build products end to end, from the database schema and the payment flow to th
 
 <table>
   <tr>
-    <td width="72" align="center" valign="middle"><b>M9</b></td>
+    <td width="72" align="center" valign="middle">
+      <img src="assets/m9-enterprise.png" width="56" height="56" alt="M9 Enterprise"/>
+    </td>
     <td valign="middle">
       <b>Co-Founder</b> · <b>M9 Enterprise</b> · Full-time<br/>
       <sub>Parent company of the M9 group — AI & digital growth agency that owns M9.GG and M9 Studio.</sub><br/>
@@ -88,7 +90,9 @@ I build products end to end, from the database schema and the payment flow to th
 
 <table>
   <tr>
-    <td width="72" align="center" valign="middle"><b>M9</b></td>
+    <td width="72" align="center" valign="middle">
+      <img src="assets/m9-studio.png" width="56" height="56" alt="M9 Studio"/>
+    </td>
     <td valign="middle">
       <b>CEO</b> · <b>M9 Studio</b> · Full-time · <sub>part of M9 Enterprise</sub><br/>
       <sub>Finds local businesses that only exist on Instagram/WhatsApp and generates their website from ready-made templates.</sub><br/>
