@@ -114,19 +114,6 @@ I build products end to end, from the database schema and the payment flow to th
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td width="72" align="center" valign="middle">
-      <a href="https://m9.gg/"><img src="https://m9.gg/images/logo.png" width="56" height="56" alt="M9 Groups"/></a>
-    </td>
-    <td valign="middle">
-      <b>Co-Founder</b> · <a href="https://m9.gg/"><b>M9 Groups Ltda</b></a> · Full-time<br/>
-      <sub>Web development agency building websites and systems for clients.</sub><br/>
-      <code>Web development</code> <code>Agency</code>
-    </td>
-  </tr>
-</table>
----
 
 <p align="center">
   <i>Let's build something reliable together.</i> 🚀
