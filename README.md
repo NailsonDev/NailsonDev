@@ -78,7 +78,7 @@ I build products end to end, from the database schema and the payment flow to th
 <table>
   <tr>
     <td width="72" align="center" valign="middle">
-      <img src="https://i.imgur.com/IXSzyCe.png" width="56" height="56" alt="M9 Enterprise"/>
+      <a href="https://m9enterprise.com/"><img src="https://i.imgur.com/IXSzyCe.png" width="56" height="56" alt="M9 Enterprise"/></a>
     </td>
     <td valign="middle">
       <b>Co-Founder</b> · <b>M9 Enterprise</b> · Full-time<br/>
@@ -91,7 +91,7 @@ I build products end to end, from the database schema and the payment flow to th
 <table>
   <tr>
     <td width="72" align="center" valign="middle">
-      <img src="https://i.imgur.com/bLTd08a.png" width="56" height="56" alt="M9 Studio"/>
+      <a href="https://app.m9.gg/"><img src="https://i.imgur.com/bLTd08a.png" width="56" height="56" alt="M9 Studio"/></a>
     </td>
     <td valign="middle">
       <b>CEO</b> · <b>M9 Studio</b> · Full-time · <sub>part of M9 Enterprise</sub><br/>
